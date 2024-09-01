@@ -33,4 +33,17 @@
 .butão:hover{
     background-color: black;
 }
+h1{
+    text-align: center;
+}
+#resultado{
+    background-color: white;
+    height: 30px;
+    width: 210px;
+    margin: 5px;
+    font-size: 2px;
+    color: black;
+    text-align: right;
+    padding: 5px;
+}
 
